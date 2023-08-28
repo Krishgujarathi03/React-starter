@@ -1,14 +1,7 @@
 import React from "react";
-import Heading from "./heading";
-import Para from "./para";
 
 function App() {
-  return (
-    <>
-      <Heading />
-      <Para />
-    </>
-  );
+  return <div>Hello World</div>;
 }
 
 export default App;
